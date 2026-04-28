@@ -91,12 +91,6 @@ https://drive.google.com/drive/folders/11rgs7M5LTBhC0zHPFe-se8aM7ajUYDvy?usp=sha
 
 ---
 
-##  Цель
-
-Junior QA Engineer → развитие в QA Automation и API testing
-
----
-
 ##  Контакты
 
 - Telegram: @puc1kv
