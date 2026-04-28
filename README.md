@@ -1,3 +1,4 @@
+## О себе
 
 Меня зовут Руслан и я начинающий QA Manual Engineer
 
@@ -8,6 +9,16 @@
 В портфолио есть полноценные тестовые проекты: тест-планы, тест-кейсы, баг-репорты и API-тестирование
 
 Ищу позицию Junior QA, где смогу быстро приносить пользу команде и развиваться как специалист
+
+---
+
+##  Инструменты и технологии
+
+- Jira, YouTrack, Test IT
+- TestRail
+- Postman, Swagger
+- Chrome DevTools
+- SQL
 <!--
 **puc1k-qa/puc1k-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
